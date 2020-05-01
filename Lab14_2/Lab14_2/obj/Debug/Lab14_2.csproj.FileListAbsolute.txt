@@ -1,0 +1,11 @@
+T:\Projects\VisualStudio\Lab14_2\Lab14_2\bin\Debug\Lab14_2.exe
+T:\Projects\VisualStudio\Lab14_2\Lab14_2\bin\Debug\Lab14_2.pdb
+T:\Projects\VisualStudio\Lab14_2\Lab14_2\obj\Debug\Lab14_2.csprojAssemblyReference.cache
+T:\Projects\VisualStudio\Lab14_2\Lab14_2\obj\Debug\Lab14_2.exe
+T:\Projects\VisualStudio\Lab14_2\Lab14_2\obj\Debug\Lab14_2.pdb
+D:\Projects\Lab14_2\Lab14_2\bin\Debug\Lab14_2.exe
+D:\Projects\Lab14_2\Lab14_2\bin\Debug\Lab14_2.pdb
+D:\Projects\Lab14_2\Lab14_2\obj\Debug\Lab14_2.csprojAssemblyReference.cache
+D:\Projects\Lab14_2\Lab14_2\obj\Debug\Lab14_2.csproj.CoreCompileInputs.cache
+D:\Projects\Lab14_2\Lab14_2\obj\Debug\Lab14_2.exe
+D:\Projects\Lab14_2\Lab14_2\obj\Debug\Lab14_2.pdb

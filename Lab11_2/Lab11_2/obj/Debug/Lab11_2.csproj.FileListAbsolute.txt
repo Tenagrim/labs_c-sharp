@@ -1,0 +1,8 @@
+T:\Projects\VisualStudio\Lab11_2\Lab11_2\bin\Debug\Lab11_2.exe
+T:\Projects\VisualStudio\Lab11_2\Lab11_2\bin\Debug\Lab11_2.pdb
+T:\Projects\VisualStudio\Lab11_2\Lab11_2\obj\Debug\Lab11_2.csprojAssemblyReference.cache
+T:\Projects\VisualStudio\Lab11_2\Lab11_2\obj\Debug\Lab11_2.Properties.Resources.resources
+T:\Projects\VisualStudio\Lab11_2\Lab11_2\obj\Debug\Lab11_2.csproj.GenerateResource.cache
+T:\Projects\VisualStudio\Lab11_2\Lab11_2\obj\Debug\Lab11_2.exe
+T:\Projects\VisualStudio\Lab11_2\Lab11_2\obj\Debug\Lab11_2.pdb
+T:\Projects\VisualStudio\Lab11_2\Lab11_2\obj\Debug\Lab11_2.Form1.resources

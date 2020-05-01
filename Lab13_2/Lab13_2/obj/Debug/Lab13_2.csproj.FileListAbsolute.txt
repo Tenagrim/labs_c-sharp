@@ -1,0 +1,5 @@
+T:\Projects\VisualStudio\Lab13_2\Lab13_2\bin\Debug\Lab13_2.exe
+T:\Projects\VisualStudio\Lab13_2\Lab13_2\bin\Debug\Lab13_2.pdb
+T:\Projects\VisualStudio\Lab13_2\Lab13_2\obj\Debug\Lab13_2.csprojAssemblyReference.cache
+T:\Projects\VisualStudio\Lab13_2\Lab13_2\obj\Debug\Lab13_2.exe
+T:\Projects\VisualStudio\Lab13_2\Lab13_2\obj\Debug\Lab13_2.pdb
